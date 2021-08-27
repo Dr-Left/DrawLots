@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\DrawLots\DrawLots\obj\Debug\DrawLots.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DrawLots\DrawLots\obj\Debug\DrawLots.Form1.resources
+C:\Users\Administrator\source\repos\DrawLots\DrawLots\obj\Debug\DrawLots.Resources.resources
+C:\Users\Administrator\source\repos\DrawLots\DrawLots\obj\Debug\DrawLots.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DrawLots\DrawLots\obj\Debug\DrawLots.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DrawLots\DrawLots\bin\Debug\DrawLots.exe.config
+C:\Users\Administrator\source\repos\DrawLots\DrawLots\bin\Debug\DrawLots.exe
+C:\Users\Administrator\source\repos\DrawLots\DrawLots\bin\Debug\DrawLots.pdb
+C:\Users\Administrator\source\repos\DrawLots\DrawLots\bin\Debug\DrawLots.xml
+C:\Users\Administrator\source\repos\DrawLots\DrawLots\obj\Debug\DrawLots.exe
+C:\Users\Administrator\source\repos\DrawLots\DrawLots\obj\Debug\DrawLots.xml
+C:\Users\Administrator\source\repos\DrawLots\DrawLots\obj\Debug\DrawLots.pdb
+C:\Users\Administrator\source\repos\DrawLots\DrawLots\obj\Debug\DrawLots.Resource1.resources
